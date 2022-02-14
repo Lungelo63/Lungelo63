@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lungelo63
+- 👋 Hi, I’m @Lungelo Packery
 - 👀 I’m interested in ... Learning and sharing projects with anyone
-- 🌱 I’m currently learning ... python, java, cloud-run, machine language, android
+- 🌱 I’m currently learning ... python, java, cloud-run, machine language, android, Java, Flutter and CSS & HTML
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... Lungelopackery@gmail.com
 - Website: https://lungelo63.github.io/Lungelo_Packery_Resume/
