@@ -8,17 +8,17 @@
   <!--<a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
 
-I'm a Senior Software Engineer at [Bloomberg](https://www.bloomberg.com/uk) using C++. All opinions are my own.
+I'm a senior Software Engineer with 5 years of experience and 3+ years within web3
 
-For the last 10 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript, Nix) in various industries including healthcare, education, dating, fintech, and blockchain. But everything has changed recently (WHAT HAPPENED???).
+Over the past five years, my learning path has progressed from Python to Java to JavaScript. Alongside this, I moved into Web3, working with Solidity for Ethereum and Rust for Solana development. I have also built a solid foundation with HTML, CSS, and MySQL along the way.
 
-I was a member of [the Haskell Core Libraries Committee][clc] in 2023.
+In terms of tools and technologies, I have experience using Foundry, PyTorch, and Hardhat, as well as libraries like web3.js. I work with modern frameworks such as Next.js and React, and I am comfortable working in Linux environments, especially for Solana and Anchor development.
 
-My passion is making Functional Programming more accessible to people with diverse backgrounds.
-Check out my free [Haskell Course for complete beginners][haskell-course]!
+I am a member of Immunefi's (https://immunefi.com/profile/RandomSec/) leader board with submissions on Cantina, Code4rena and Sherlock!
 
-[clc]: https://github.com/haskell/core-libraries-committee
-[haskell-course]: https://github.com/haskell-beginners-2022/course-plan
+I have started contributing to open source projects such as foundry (https://github.com/foundry-rs/foundry) as of 2026. A few Pushes have been accepted for now but more contributions on the way including in the Solana ecosystem.
+
+[Blog Mirror]: https://paragraph.com/0x89d3cf6e81560b96adcad7436b17908037b46c61
 
 ### My work
 
