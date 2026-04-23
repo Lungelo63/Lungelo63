@@ -1,4 +1,6 @@
-## Hi there, I'm Lungelo 👋
+<h1 align="center">Hey👋, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Lungelo</h1>
+
+<h3 align="center">Software Engineer | Smart Contract Engineer/Auditor</h3>
 
 <p align="center">
   <a href="https://lungelo-packery.onrender.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
@@ -7,6 +9,11 @@
   <a href="https://www.linkedin.com/in/lungelo-packery" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!--<a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
+
+
+# 💫 About Me:
+
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanaranjan-sahoo-33199023b) -->
 
 I'm a senior Software Engineer with 5 years of experience and 3+ years within web3
 
@@ -18,7 +25,19 @@ I am a member of Immunefi's (https://immunefi.com/profile/RandomSec/) leader boa
 
 I have started contributing to open source projects such as foundry (https://github.com/foundry-rs/foundry) as of 2026. A few Pushes have been accepted for now but more contributions on the way including in the Solana ecosystem.
 
+
+Founder & Founding Engineer of @[Ubiqode](https://www.ubiqode.co) · Full Stack Engineer · Open Source Contributor
+
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lungelo63&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lungelo63&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+
 [Blog Mirror]: https://paragraph.com/0x89d3cf6e81560b96adcad7436b17908037b46c61
+
+![stats](https://github-readme-stats.vercel.app/api?username=Lungelo63&theme=tokyonight)
+
 
 ### My work
 
@@ -103,3 +122,7 @@ You can also find me on other social media:
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
+
+ ## 💰 You can help me by Sponcering
+ 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gyanaranjan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gyanar25) 
