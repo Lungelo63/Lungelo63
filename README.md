@@ -39,11 +39,14 @@ Founder & Founding Engineer of @[Ubiqode](https://www.ubiqode.co) · Full Stack 
 <!--![stats](https://github-readme-stats.vercel.app/api?username=Lungelo63&theme=tokyonight) -->
 
 
-### My work
+# My work
+
+### Web2
+
+### Web3
 
 
-
-### My toolbox
+# My toolbox
 
 <p>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
