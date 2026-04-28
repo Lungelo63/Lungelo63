@@ -15,7 +15,7 @@
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanaranjan-sahoo-33199023b) -->
 
-I'm a senior Software Engineer with 5 years of experience and 3+ years within web3
+I'm a senior Software Engineer with 6 years of experience and 4+ years within web3
 
 Over the past five years, my learning path has progressed from Python to Java to JavaScript. Alongside this, I moved into Web3, working with Solidity for Ethereum and Rust for Solana development. I have also built a solid foundation with HTML, CSS, and MySQL along the way.
 
